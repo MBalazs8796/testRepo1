@@ -20,3 +20,5 @@ function everything(){
     B()
     CB()
 }
+
+module.exports = {A,B,C,CB,everything}
