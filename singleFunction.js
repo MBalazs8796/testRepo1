@@ -5,7 +5,7 @@ function A() {
 function B() {
     console.log('You have called B');
 }
-
+console.log("szipp")
 function C() {
     console.log('You have called C');
 }
